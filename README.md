@@ -6,8 +6,10 @@ MOD Localization Indonesia yang saya buat bertujuan untuk memudahkan player indo
 Localization ini sudah 100% dan tidak akan di update lagi kecuali update game, bugs dan mohon maaf jika ada salah kata dan kata yang tidak enak dilihat :)
 
 ### CARA INSTALL
-pergi ke path 
+pergi ke path
+
 \SteamLibrary\steamapps\common\Murky Divers\MurkyDivers\Content\Paks\~mods
+
 buat ~mods folder jika blm ada dan letakkan mod .pak di dalamnya
 
 ### ENJOY
