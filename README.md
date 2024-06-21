@@ -1,4 +1,4 @@
-# MurkyDivers Indonesia Localization
+# MurkyDivers Indonesian Localization
 ## MADE BY gi_.i/Gi/BeraniTakut
 
 ### TENTANG MOD INI
