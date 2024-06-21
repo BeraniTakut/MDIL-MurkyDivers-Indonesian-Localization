@@ -7,9 +7,7 @@ Localization ini sudah 100% dan tidak akan di update lagi kecuali update game, b
 
 ### CARA INSTALL
 pergi ke path
-
-\SteamLibrary\steamapps\common\Murky Divers\MurkyDivers\Content\Paks\~mods
-
+SteamLibrary\steamapps\common\Murky Divers\MurkyDivers\Content\Paks\~mods
 buat ~mods folder jika blm ada dan letakkan mod .pak di dalamnya
 
 ### DOWNLOAD
