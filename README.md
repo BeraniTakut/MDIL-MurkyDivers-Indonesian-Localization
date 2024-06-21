@@ -1,5 +1,5 @@
 # MurkyDivers Indonesia Localization
-## MADE BY gi_.i/Gi
+## MADE BY gi_.i/Gi/BeraniTakut
 
 ### TENTANG MOD INI
 MOD Localization Indonesia yang saya buat bertujuan untuk memudahkan player indonesia yang kesulitan berbahasa inggris
@@ -11,6 +11,9 @@ pergi ke path
 \SteamLibrary\steamapps\common\Murky Divers\MurkyDivers\Content\Paks\~mods
 
 buat ~mods folder jika blm ada dan letakkan mod .pak di dalamnya
+
+### DOWNLOAD
+[Release](https://github.com/BeraniTakut/MDIL-MurkyDivers-Indonesia-Localization/releases)
 
 ### ENJOY
 
